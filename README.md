@@ -3,9 +3,14 @@
 **Проект 1**. Анализ данных о бронировании отелей
 * "bookings.csv" - файл с данными
 * "Описание данных_бронирование отелей.txt"
-* "Bookings.ipynb" - проект на Jupyter Notebook
+* "Bookings.ipynb" - проект на Python с использованием библиотеки Pandas
 
 **Проект 2**. Поездки на такси в Нью-Йорке
 * "taxi_nyc.csv" - файл с данными
 * "Описание данных_о поездках на такси в Нью-Йорке.txt"
-* "Taxi_NewYork.ipynb" - проект на Jupyter Notebook
+* "Taxi_NewYork.ipynb" - проект на Python с использованием библиотеки Pandas
+**Проект 3.** Клиенты
+* "logs.csv" - файл с данными
+* "user_data.csv" - файл с данными
+* "Описание данных_таблиц_user_data_и_logs .txt"
+* "Clients.ipynb" - проект на Python с использованием библиотек Pandas, seaborn
