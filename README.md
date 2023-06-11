@@ -21,4 +21,6 @@
 * "user_data.csv" - файл с данными
 * "Описание данных_таблиц_user_data_и_logs .txt"
 
-**Проект.** Ведение поправки на давление
+**Проект.** Введение поправки на давление в скорость счета установки СцМГ
+* "Correction for pressure of the ScMH counting rate.ipynb" - проект на Python с использованием библиотек Pandas, matplotlib, seaborn
+* "June_2022.csv" - файл с данными
